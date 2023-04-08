@@ -8,15 +8,25 @@ body {
 }
 
 .box.special {
-    border-radius: 25px;
-    background-color: #E9F1FA;
+    border-radius: 0% 10%;
+    background-color: lightblue;
 }
 
 #cta {
     color: white;
-    background-color: #00ABE4;
+    background-color: lightblue;
 }
 
-img.rounded-corners {
-    border-radius: 30px;
+.box.special.features {
+    background-color: lightblue;
+    border-radius: 0%;
+}
+
+#featured-image {
+    border-radius: 0% 10% 0% 0%;
+}
+
+.button.alt {
+    color: black;
+    background-color: #ffffff;
 }
