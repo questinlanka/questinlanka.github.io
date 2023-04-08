@@ -8,8 +8,8 @@ body {
 }
 
 .box.special {
-    border-radius: 0% 10%;
-    background-color: lightblue;
+    background-color: transparent;
+    box-shadow: none;
 }
 
 #cta {
@@ -23,10 +23,5 @@ body {
 }
 
 #featured-image {
-    border-radius: 0% 10% 0% 0%;
-}
-
-.button.alt {
-    color: black;
-    background-color: #ffffff;
+    border-radius: 5% 5% 5% 5%;
 }
