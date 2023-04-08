@@ -25,3 +25,12 @@ body {
 #featured-image {
     border-radius: 5% 5% 5% 5%;
 }
+
+.button.alt {
+    border-color: black;
+    color: black;
+}
+
+.box.special.features {
+    width: 100%;
+}
