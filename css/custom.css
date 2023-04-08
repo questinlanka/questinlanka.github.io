@@ -1,5 +1,6 @@
 body {
     background-color: #ffffff;
+    font-family: 'Open Sans';
 }
 
 #footer {
@@ -18,4 +19,4 @@ body {
 
 img.rounded-corners {
     border-radius: 30px;
-  }
+}
